@@ -5,8 +5,8 @@
 
 ## :envelope: Contact me
 <p align="left">
-<a href="https://www.linkedin.com/in/philipappenzeller/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/philipappenzeller/" height="40" width="40" /></a>
-<a href="mailto: philip.appenzeller@outlook.com"><img src="./img/mail.png" width="50" height="40" /></a>
+<a href="https://www.linkedin.com/in/philipappenzeller/" target="blank"><img src="./img/In.png" alt="https://www.linkedin.com/in/philipappenzeller/" height="40" width="40" /></a>
+<a href="mailto: philip.appenzeller@outlook.com"><img src="./img/mail2.png" width="50" height="40" /></a>
 </p>
 <!--
 **oJack3d/oJack3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
