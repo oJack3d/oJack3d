@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## :chart_with_upwards_trend: My Github stats
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=oJack3d&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Philip Appenzeller's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pat992&layout=compact&theme=dracula&hide_border=true&langs_count=10" />|
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=oJack3d&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Philip Appenzeller's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oJack3d&layout=compact&theme=dracula&hide_border=true&langs_count=10" />|
 <!--
 **oJack3d/oJack3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
