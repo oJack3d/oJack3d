@@ -5,7 +5,7 @@
 
 ## :envelope: Contact me
 <p align="left">
-<a href="https://www.linkedin.com/in/philipappenzeller/" target="blank"><img src="./img/In.png" alt="https://www.linkedin.com/in/philipappenzeller/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/philipappenzeller/" target="blank"><img src="./img/in.png" alt="https://www.linkedin.com/in/philipappenzeller/" height="40" width="40" /></a>
 <a href="mailto: philip.appenzeller@outlook.com"><img src="./img/mail.png" style="" width="45" height="40" /></a>
 </p>
 <!--
